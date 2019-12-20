@@ -1,1 +1,3 @@
-This is a example file!# MathCode
+# MathCode #
+
+This is a example file!
